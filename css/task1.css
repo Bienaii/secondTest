@@ -1,0 +1,14 @@
+#div0{
+    overflow: hidden;/*溢出内容隐藏*/
+    width:100%;
+    margin: 0 auto;/*主体div水平居中*/
+
+}
+#div1{
+    float: left;
+    background-color: orange;
+    width: 30%;
+    padding-bottom: 28%;/*padding-bottom百分值的特性可使div1高度随div0等比变化*/
+    margin: 1%;        /*即padding-bottom的百分比的值是按照父元素宽度的值计算的*/
+    border-radius: 5%;
+}
