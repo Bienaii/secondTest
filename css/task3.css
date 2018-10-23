@@ -1,0 +1,46 @@
+html,body{
+    height: 100%;
+    font-size: 62.5%;
+    text-align: center;
+    background-color: aqua;
+}
+.pages{
+    height: 100%;
+
+    text-align: center;
+}
+.demo1{
+    padding-top: 30%;
+    margin: 0 auto;
+}
+.demo1 img{
+    width: 40%;
+    height: 40%;
+}
+.text{
+    width: 80%;
+    padding-top: 20%;
+    color: #eff9fa;
+    margin:auto;   /*盒子自动居中对齐*/
+    font-size: 2.5em;
+}
+
+.demo2{
+    width: 80%;
+    padding-top: 25%;
+    float: left;
+    margin: 0 10%;
+}
+.left{
+    width: 25%;
+    height: 25%;
+
+}
+.right{
+    width: 29%;
+    height: 29%;
+    float: right;
+    padding-left: 40%;
+
+}
+
