@@ -1,12 +1,12 @@
 html,body{
-    height: 100%;
+    width: 375px;
+    height: 667px; /*iphone6的尺寸*/
     font-size: 62.5%;
     text-align: center;
-    background-color: aqua;
 }
 .pages{
     height: 100%;
-
+    background-color: aqua;
     text-align: center;
 }
 .demo1{
