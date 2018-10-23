@@ -1,6 +1,6 @@
 html,body{
-    width: 375px;
-    height: 667px; /*iphone6的尺寸*/
+    width: 414px;
+    height: 736px; /*iphone6p的尺寸*/
     font-size: 62.5%;
     text-align: center;
 }
